@@ -8,7 +8,7 @@
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
 | Owner          | Bhuvnesh.  Discord: `Bhuvnesh#5707` UID: `881179796724400158`                                              |
-| Management     | Looks after all core activities related to Bhuvnesh and team his team.                                                  |
+| Management     | Looks after all core activities related to Bhuvnesh and his team.                                                  |
 | Staff Team     | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
 | Minecraft Team | Manages our Minecraft gaming server i.e. [SH Network]().                                          |
 | Community Team | Manages all our community events held on Discord.                                          |
