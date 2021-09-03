@@ -41,7 +41,7 @@
 | Level  50+                  | DJ access to control player of music bots.                                 |
 | Level  60+                  | Permission to set AFK status.                                              |
 | Level  70+                  | Permission to attach/embed files across channels.                          |
-| Level  80+                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
+| Level  80+                  | Regular talk show with Bhuvnesh as well as access to sponsor's only section.  |
 | Level  90+                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
 | Level 100+                | Show off your honourable title of being on top of the server.               |
 
